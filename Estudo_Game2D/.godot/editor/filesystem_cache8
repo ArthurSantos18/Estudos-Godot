@@ -1,0 +1,17 @@
+2a60927148abd1d33b818b535e306557
+::res://::1678417180
+icon.svg::CompressedTexture2D::4631819157434116237::1678402956::1678417157::1::::<><>::
+::res://assets/::1678417157
+character.png::CompressedTexture2D::486488636539937257::1678402981::1678417157::1::::<><>::
+::res://assets/terrain/::1678417157
+decoration.png::CompressedTexture2D::2466149365256939065::1678403084::1678417156::1::::<><>::
+grass.png::CompressedTexture2D::1870174005684386915::1678403099::1678417156::1::::<><>::
+ground.png::CompressedTexture2D::6173265617689791168::1678403118::1678417156::1::::<><>::
+wall.png::CompressedTexture2D::2666031795849717211::1678403151::1678417156::1::::<><>::
+water.png::CompressedTexture2D::1760976238961803575::1678403203::1678417157::1::::<><>::
+::res://scenes/::1678415790
+level.tscn::PackedScene::7560812131071892840::1678415790::0::1::::<><>::uid://beblu7vro26tq<>uid://bkjlqk3non82l
+player.tscn::PackedScene::2669945752778125354::1678415300::0::1::::<><>::uid://g6wnqwr635wv<>res://scripts/player.gd
+terrain.tscn::PackedScene::3107585548580816653::1678415767::0::1::::<><>::uid://1v6q0qvuoe88<>uid://bd8pfihk68nff<>uid://bbevecoewtbb2<>uid://0dbayycwb0i2
+::res://scripts/::1678415697
+player.gd::GDScript::-1::1678415697::0::1::::<>CharacterBody2D<>::
